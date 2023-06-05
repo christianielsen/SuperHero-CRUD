@@ -1,8 +1,8 @@
 # SuperHero-CRUD
 
-##CRUD app
-###Backend
+## CRUD app
+### Backend
 C#.NET 6
 MS SQL Server
-###Frontend
+### Frontend
 Angular
